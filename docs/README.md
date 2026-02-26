@@ -25,7 +25,7 @@ After each sprint, release, or milestone, teams conduct retrospectives (45–75 
 
 **Quality is embedded throughout execution** via unit and integration tests, end-to-end smoke tests for critical flows, security scanning in CI, and manual QA when needed. **Risk and dependency management are ongoing**, with blockers escalated through a three-level triage system: team standup, PM-to-Product Lead, and sponsor-level escalation for business-impacting issues.
 
-**Clear roles work in concert**: Product Managers own the vision and measure outcomes; Project Managers coordinate delivery and manage schedules; Developers implement features and identify technical risks; and QA/Testing validates quality. Additional specialist roles — including Release Manager, QA Automation Lead, Stakeholder Engagement Coordinator, Technical Writer, and Support Lead — ensure comprehensive coverage across releases, documentation, stakeholder engagement, and post-release support. **Communication is intentional and frequent**—weekly syncs between PM and Product Manager, twice-weekly standups for the delivery team, and monthly stakeholder updates.
+**Clear roles work in concert**: Product Managers own the vision and measure outcomes; Project Managers coordinate delivery and manage schedules; Developers implement features and identify technical risks; and QA/Testing validates quality. **Communication is intentional and frequent**—weekly syncs between PM and Product Manager, twice-weekly standups for the delivery team, and monthly stakeholder updates.
 
 ---
 
@@ -35,7 +35,7 @@ Navigate to the guides below based on your current phase or need:
 
 ### **Foundational Understanding**
 - **[Project Management Overview](octoacme-project-management-overview.md)** — Introduction to OctoAcme's principles, core roles, key artifacts, and the project lifecycle.
-- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed descriptions of Project Managers, Product Managers, Developers, QA roles, and specialist roles (Release Manager, QA Automation Lead, Stakeholder Engagement Coordinator, Technical Writer, Support Lead).
+- **[Roles and Personas](octoacme-roles-and-personas.md)** — Detailed descriptions of Project Managers, Product Managers, Developers, and QA roles.
 
 ### **Project Phases**
 - **[Project Initiation Guide](octoacme-project-initiation.md)** — How to validate an idea, create a One-pager, align stakeholders, and make the go/no-go decision.
